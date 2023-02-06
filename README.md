@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I'm a web developer from Serbia</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radule614" alt="radule614" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radule614&theme=onedark" alt="radule614" /></a> </p>
 
 - 🌱 I’m currently learning **React, Next.js, .NET**
 
