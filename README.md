@@ -1,8 +1,8 @@
-<h2 align="left">Hi, I'm a web developer from Serbia</h2>
+<h2 align="left">Hi, I'm a software engineer from Serbia</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radule614&theme=onedark" alt="radule614" /></a> </p>
 
-- 🌱 I’m currently learning **React, Next.js, .NET**
+- 🌱 I’m currently learning **.NET, React, Angular**
 
 - 📫 How to reach me **stojanovicrade614@gmail.com**
 
