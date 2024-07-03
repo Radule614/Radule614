@@ -1,10 +1,7 @@
-<h2 align="left">Hi, I'm a software engineer from Serbia</h2>
+<h3>I’m currently working on my own Voxel Game Engine using C++ and OpenGL</h3>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radule614&theme=onedark" alt="radule614" /></a> </p>
-
-- 🌱 I’m currently learning **.NET, React, Angular**
-
-- 📫 How to reach me **stojanovicrade614@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
